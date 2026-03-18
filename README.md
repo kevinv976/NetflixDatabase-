@@ -21,5 +21,5 @@ Demostrar mis capacidades técnicas en el manejo de bases de datos mediante la r
 
 MySQL Workbench: Para el modelado, ingeniería inversa y ejecución de scripts.
 
-#Diagrama Entidad Relacion De NetflixDatabase
+# Diagrama Entidad Relacion De NetflixDatabase
 ![Diagrama Entidad Relación](der_series_peliculas.png)
