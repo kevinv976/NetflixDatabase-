@@ -20,3 +20,5 @@ Demostrar mis capacidades técnicas en el manejo de bases de datos mediante la r
 🛠️ Herramientas utilizadas:
 
 MySQL Workbench: Para el modelado, ingeniería inversa y ejecución de scripts.
+
+![Diagrama Entidad Relación](der_series_peliculas.png)
