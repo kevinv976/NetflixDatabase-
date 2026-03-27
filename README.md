@@ -23,3 +23,9 @@ MySQL Workbench: Para el modelado, ingeniería inversa y ejecución de scripts.
 
 # Diagrama Entidad Relacion De NetflixDatabase
 ![Diagrama Entidad Relación](der_series_peliculas.png)
+
+El proyecto utiliza un modelo relacional diseñado en MySQL Workbench. El esquema incluye:
+
+* Series y Episodios: Relación 1:N (Uno a Muchos).
+
+* Actores y Series: Relación M:N (Muchos a Muchos) resuelta mediante la tabla asociativa actuaciones, que permite registrar qué personaje interpreta cada actor en una serie específica.
